@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#to{
+    color:rgb(38, 150, 224);
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+    
+}
